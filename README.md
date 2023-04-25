@@ -10,7 +10,6 @@ html基础
 
 ![image-20230411005829641](https://s2.loli.net/2023/04/11/QVxSM3OyBsU7lCe.png)
 
-
 ### css_cafe_menu
 
 css基础
@@ -20,6 +19,7 @@ css基础
 ## front_end_development
 
 ### bootstrap基础+jqeury
+ - 为了简单显示，使用了CDN外联的方式引入
 
 ### sass
 
